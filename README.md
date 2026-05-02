@@ -1,3 +1,15 @@
+
+-----
+
+**DO NOTE THAT THIS ISNT COMPLETE AND DOES NOT INCLUDE EVERY SINGLE OST!**
+
+Hello! this is a minecraft datapack-resourcepack which ports every OST in Block Tales into a music disc, which is craftable if you guess the recipe or gain the advancement.
+SHOULD work for versions 1.21.11-26.1+
+
+You can find the files in the "Releases", one of them will be the datapack (_dp) and the other being the resourcepack (_rp). you must deposit the DP one into your world/datapacks folder, whilst for the resourcepack just add it in .minecraft\resourcepacks.
+
+-----
+
 (Credits.txt in rp_discs)
 
 Hello! Thank you for downloading this resourcepack-datapack!
@@ -16,11 +28,3 @@ Thank you again for giving this a look!
 Dany
 
 BUILD VER: 2.8 (2/5/26)
-
------
-
-
-Hello! this is a minecraft datapack-resourcepack which ports every OST in Block Tales into a music disc, which is craftable if you guess the recipe or gain the advancement.
-SHOULD work for versions 1.21.11-26.1+
-
-You can find the files in the "Releases", one of them will be the datapack (_dp) and the other being the resourcepack (_rp). you must deposit the DP one into your world/datapacks folder, whilst for the resourcepack just add it in .minecraft\resourcepacks.
